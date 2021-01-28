@@ -1,6 +1,6 @@
 # UdacityCVND
 
-##Udacity Computer Vision Nanodegree ##
+## Udacity Computer Vision Nanodegree
 
 This repository contains my projects submitted to [Udacity Computer Vision Nanodegree] (https://confirm.udacity.com/NE9KEJM6).
 
