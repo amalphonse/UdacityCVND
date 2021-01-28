@@ -2,7 +2,7 @@
 
 ## Udacity Computer Vision Nanodegree
 
-This repository contains my projects submitted to [Udacity Computer Vision Nanodegree] (https://confirm.udacity.com/NE9KEJM6).
+This repository contains my projects submitted to [Udacity Computer Vision Nanodegree](https://confirm.udacity.com/NE9KEJM6).
 
 In this course I completed three projects.
 1. **Facial Keypoint Detection** in which I used Convolutional Neural Networks (CNNs) to detect 68 facial keypoints.
